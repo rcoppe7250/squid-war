@@ -4,27 +4,9 @@ A game for squids.
 
 ### Backstory
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Space Squid has stolen freshly baked cookies from the ugly Space Grandmothers. Now he must escape their wrath with his precious baked goods! Luckily, while the Space Grandmothers can throw up lasers, Space Squid knows how to shoot them out of the top of his head.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Instructions
 
