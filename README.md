@@ -4,9 +4,7 @@ A game for squids.
 
 ### Backstory
 
-```markdown
 Space Squid has stolen freshly baked cookies from the ugly Space Grandmothers. Now he must escape their wrath with his precious baked goods! Luckily, while the Space Grandmothers can throw up lasers, Space Squid knows how to shoot them out of the top of his head.
-```
 
 ### Instructions
 
