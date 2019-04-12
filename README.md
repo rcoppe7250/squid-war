@@ -17,3 +17,5 @@ You can get a maximum of 150 points. For each Grandmother you kill, you get 10 p
 ### Credits
 
 [playing music](https://freesound.org/people/dela.deb/sounds/463725/)
+[intro music](https://freesound.org/people/piermic/sounds/324085/)
+[lose music](https://freesound.org/people/Cabeeno%20Rossley/sounds/126512/)
