@@ -8,10 +8,12 @@ Space Squid has stolen freshly baked cookies from the ugly Space Grandmothers. N
 
 ### Instructions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rcoppe7250/squid-war/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Use the arrow keys to move left and right. Press the space bar to shoot. The shield will remain intact for 3 hits, and a cookie will fall from the sky that restores your shield health. Kill all the Grandmothers to win.
 
 ### Scoring
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can get a maximum of 150 points. For each Grandmother you kill, you get 10 points. For each shield health you lose, you lose 5 points, and the cookie power up will not restore them.
 
 ### Credits
+
+[playing music](https://freesound.org/people/dela.deb/sounds/463725/)
