@@ -10,6 +10,8 @@ Space Squid has stolen freshly baked cookies from the ugly Space Grandmothers. N
 
 Use the arrow keys to move left and right. Press the space bar to shoot. The shield will remain intact for 3 hits, and a cookie will fall from the sky that restores your shield health. Kill all the Grandmothers to win.
 
+![image](https://user-images.githubusercontent.com/49485391/56502400-294ee900-64e0-11e9-9231-56f3aeee6cef.png)
+
 ### Scoring
 
 You can get a maximum of 150 points. For each Grandmother you kill, you get 10 points. For each shield health you lose, you lose 5 points, and the cookie power up will not restore them.
